@@ -12,7 +12,7 @@
 
 我~~也许~~是一个前端开发爱好者，也是一个太空狼人杀类游戏爱好者，比如**Among Us**？？？
 
-There are 2 impostors among us...
+***There are 2 impostors among us...***
 
 什么？你说我天天玩盗版太空杀而不是Among Us？？？
 
